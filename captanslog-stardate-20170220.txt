@@ -1,0 +1,76 @@
+    1  ~$ cd ~/Desktop/
+    2  cd /Desktop/
+    3  cd ~/Desktop/
+    4  git clone https://github.com/SOS598-RDM/spreadsheets.git
+    5  git clone https://github.com/SOS598-RDM/spreadsheets.git
+    6  diff delimitedA.csv delimitedB.csv
+    7  diff -y delimitedA.csv spreadsheatA.slsx
+    8  cd ~/spreadsheets/
+    9  cd ~/Desktop/spreadsheets
+   10  diff delimitedA.csv delimitedB.csv
+   11  diff -y delimitedA.csv delimitedB.csv
+   12  mv delimitedB.csv delimitedA.csv
+   13  git diff
+   14  cd ~/Desktop/spreadsheets
+   15  gvim delimitedA.csv
+   16  git status
+   17  git add delimitedA.csv
+   18  git commit -m "changed to animals"
+   19  git push
+   20  git push
+   21  cd ~/Desktop/
+   22  https://github.com/ebondank/spreadsheets.git
+   23  mv https://github.com/ebondank/spreadsheets.git
+   24  git clone
+   25  git clone https://github.com/ebondank/spreadsheets.git
+   26  cd ~/Desktop/
+   27  git clone https://github.com/SOS598-RDM/command-line-weather-data-assignment-ebondank.git
+   28  cd ~/Desktop/command-line-weather-data-assignment-ebondank
+   29  grep 43 data/1216.txt
+   30  grep 43 data/*.txt
+   31  grep 43 data/*.txt > results/weater_data_43rd_day.txt
+   32  sed "s/.txt:/,/g" results/weather_data_43rd_day.txt
+   33  cd results
+   34  sed "s/.txt:/,/g" results/weather_data_43rd_day.txt
+   35  "s/.txt:/,/g" weather_data_43rd_day.txt
+   36  sed "s/.txt:/,/g" Desktop/command-line-weather-data-assignment-ebondank/results/weather_data_43rd_day.txt
+   37  sed "s/.txt:/,/g
+   38  cd ~/Desktop/command-line-weather-data-assignment-ebondank/results
+   39  q
+   40  sed "s/.txt:/,/g" ~Desktop/command-line-weather-assignment-ebondank/results/weather_data_43rd_day.txt
+   41  cd ~/Desktop/command-line-weather-data-assignment-ebondank/results
+   42  sed "s/.txt:/,/g" results/weather_data_43rd_day.txt
+   43  sed "s/.txt:/,/g" weather_data_43rd_day.txt
+   44  sed "s/.txt:/,/g" ~/Desktop/command-line-weather-data-assignment-ebondank/results/weather_data_43rd_day.txt
+   45  sed "s/.txt:/,/g" results/*.txt
+   46  sed "s/.txt:/,/g" > results/43rd_day_formatted.txt
+   47  git add -all
+   48  git add --all
+   49  git commit -m "unformatted 43rd day file"
+   50  git push origin master
+   51  sed "/.txt:/,/g" results/weather_data_43rd_day.txt
+   52  sed "s/.txt:/,/g" results/weather_data_43rd_day.txt
+   53  "s/.txt:/,/g" > formatted_43rd_day.txt
+   54  "s/.txt:/,/g" > Desktop/command-line-weather-data-assignment-ebondank/results/formatted_43rd_day.txt
+   55  "s/.txt:/,/g" > Desktop/command-line-weather-data-assignment-ebondank/results/formatted_43rd_day.txt
+   56  "s/.txt:/,/g" > ~Desktop/command-line-weather-data-assignment-ebondank/results/formatted_43rd_day.txt
+   57  cd ~/Desktop/
+   58  git clone https://github.com/ebondank/command-line-weather-data-assignment-ebondank.git
+   59  cd ~/Desktop/
+   60  git clone https://github.com/SOS598-RDM/command-line-weather-data-assignment-ebondank.git
+   61  grep 43 data/*.txt
+   62  cd ~/Desktop/command-line-weather-data-assignment-ebondank/
+   63  grep 43 data/*.txt
+   64  grep 43 data/*.txt > results/43-results.txt
+   65  sed "s/.txt:/,/g" results/43-results.txt
+   66  sed "s/.txt:/,/g
+   67  q
+   68  cd ~/Desktop/command-line-weather-data-assignment-ebondank
+   69  sed "s/.txt:/,/g" results/43-results.txt
+   70  cd ~/Desktop/
+   71  git clone https://github.com/SOS598-RDM/command-line-weather-data-assignment-ebondank.git
+   72  ~/Desktop/command-line-weather-data-assignment-ebondank
+   73  cd ~/Desktop/command-line-weather-data-assignment-ebondank
+   74  grep 43 data/*.txt > results/43-results.txt
+   75  sed "s/.txt:/,/g" results/43-results.txt > new-43-results.txt
+   76  history > results/captanslog-stardate-20170220.txt
